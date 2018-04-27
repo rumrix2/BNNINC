@@ -1,0 +1,24 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body { margin:0; padding:0;}
+img { border:none;}
+a { text-decoration:none; color:#000;}
+a:hover { background-color:#FF0;}
+
+#con { padding:0 6px;}
+#main { padding-right:20px;}
+.body_txt { font-family:"맑은 고딕"; font-size:15px; line-height:24px; text-align:justify; padding:0 5px 16px 5px; word-break:break-all;}
+.body_txt1 { font-family:"맑은 고딕"; font-size:16px; line-height:24px; text-align:justify; padding:0 5px 16px 5px; word-break:break-all; font-weight:bold;}
+.body_txt2 { font-family:"맑은 고딕"; font-size:16px; line-height:28px; text-align:justify; padding:0 5px 16px 5px; word-break:break-all; font-weight:bold; color:#06C;}
+.body_txt2 a{ font-family:"맑은 고딕"; font-size:16px; line-height:28px; text-align:justify; padding:0 5px 16px 5px; word-break:break-all; font-weight:bold; color:#06C;}
+.body_img { padding-bottom:16px;}
+
+#right { padding:15px 0;}
+.r_box{ padding:5px;}
+.r_txt { font-family:"맑은 고딕"; font-size:12px; line-height:20px; padding-left:5px;}
+
+#footer { padding:5px 10px; background-color:#f3f3f5; text-align:center; border-top:#e4e4e4 1px solid; border-bottom:#e4e4e4 1px solid; font-family:"맑은 고딕"; font-size:13px;}
+
+/* 롤링 */
+.scroll { position:absolute; width:116px; margin-top:149px;}
